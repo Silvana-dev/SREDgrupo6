@@ -1,20 +1,20 @@
 # SREDgrupo6
 desenvolvimento de rede de computador virtualizada 
 
-# Configuração do servidor DNS com Bind9
+# Configuração de Interface de Rede
 
 
 <p><center> Tabela 1: Definições da rede interna grupo 6, 924</center></p>
 
-| DESCRIÇÃO   | IP            |
-|:------------|:------------- |
-| rede        | 10.9.24.0     |
-| máscara     | 255.255.255.0 |
-| Gateway     | 10.9.24.41    |
-| Broadcast   | 10.9.24.39    |
-| NameServer1 | 10.9.24.46    |
-| NameServer2 | 10.9.24.47    |
-| vm1         | 10.9.24.100   |
+| DESCRIÇÃO   | IP               |
+|:------------|:-----------------|
+| rede        | 10.9.24.0        |
+| máscara     | 255.255.255.0    |
+| Gateway     | 10.9.24.41/24    |
+| Broadcast   | 10.9.24.39/24    |
+| NameServer1 | 10.9.24.46/24    |
+| NameServer2 | 10.9.24.47/24    |
+| Samba       | 10.9.24.45/24    |
 
 
 
