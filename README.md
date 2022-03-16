@@ -15,6 +15,7 @@ desenvolvimento de rede de computador virtualizada
 | NameServer1 | 10.9.24.113    |
 | NameServer2 | 10.9.24.121    |
 | Samba       | 10.9.24.115    |
+| BD          | 10.9.24.222    | 
 
 
 
