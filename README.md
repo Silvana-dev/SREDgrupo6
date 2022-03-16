@@ -1,5 +1,5 @@
 # SREDgrupo6
-desenvolvimento de rede de computador virtualizada 
+Desenvolvimento de rede de computador virtualizada.
 
 # Configuração de Interface de Rede
 
