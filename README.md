@@ -7,14 +7,14 @@ desenvolvimento de rede de computador virtualizada
 <p><center> Tabela 1: Definições da rede interna grupo 6, 924</center></p>
 
 | DESCRIÇÃO   | IP             |
-|:------------|:---------------|
+|:------------|:---------------| 
 | rede        | 10.9.24.0      |
 | máscara     | 255.255.255.0  |
-| Gateway     | 10.9.24.105    |
+| Gateway     | 10.9.24.120    |
 | Broadcast   | 10.9.24.255    |
-| NameServer1 | 10.9.24.216    |
-| NameServer2 | 10.9.24.217    |
-| Samba       | 10.9.24.108    |
+| NameServer1 | 10.9.24.113    |
+| NameServer2 | 10.9.24.121    |
+| Samba       | 10.9.24.115    |
 
 
 
